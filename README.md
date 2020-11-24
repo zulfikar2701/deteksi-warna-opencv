@@ -4,7 +4,7 @@ Using OpenCV library in Python to create a color detecting simple program
 
 All files using Bahasa Indonesia
 
-1. Install pip (if not already) through command line 'py install pip'
+1. Install pip (if not already) through command line '<py install pip>'
 2. Install opencv through pip from command line 'py pip install opencv'
 3. Install pandas through pip from command line 'py pip install pandas'
 4. Install argparse through pip from command line 'py pip install argparse'
@@ -18,4 +18,4 @@ All files using Bahasa Indonesia
 10. Press ESC key to exit the program
 
 
-*- Zulfikar*
+**- Zulfikar**
