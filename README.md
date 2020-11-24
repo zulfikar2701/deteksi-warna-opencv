@@ -16,3 +16,6 @@ All files using Bahasa Indonesia
 
 9. Will open a new Window and if it showed the desired picture it worked
 10. Press ESC key to exit the program
+
+
+*- Zulfikar*
