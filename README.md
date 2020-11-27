@@ -1,4 +1,5 @@
-# deteksi-warna-opencv
+# Deteksi Warna OpenCV
+# Color Detection with OpenCV
 
 Using OpenCV library in Python to create a color detecting simple program
 
